@@ -23,3 +23,9 @@ cloud-consumerzk-order80    微服务消费者订单Module模块，Zookeeper注�
 cloud-providerconsul-payment8006    微服务提供者支付Module模块，consul注册中心
 
 cloud-consumerconsul-order80    微服务消费者订单Module模块，consul注册中心
+
+cloud-consumer-feign-order80    微服务消费者订单Module模块，openfeign客户端
+
+cloud-provider-hystrix-payment8001  熔断机制的微服务提供者支付Module模块
+
+cloud-consumer-feign-hystrix-order80    熔断机制的微服务消费者订单Module模块

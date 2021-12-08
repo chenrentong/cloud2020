@@ -22,6 +22,7 @@
 - [cloud-consumer-feign-order80 ](#cloud-consumer-feign-order80  )
 - [cloud-provider-hystrix-payment8001  ](#cloud-provider-hystrix-payment8001  )
 - [cloud-consumer-feign-hystrix-order80 ](#cloud-consumer-feign-hystrix-order80  )
+- [cloud-consumer-hystrix-dashboard9001](#cloud-consumer-hystrix-dashboard9001  )
 
 
 ## cloud-api-commons   
@@ -95,9 +96,15 @@ eureka注册中心
 
 熔断机制的微服务提供者支付Module模块
 
+
 ## cloud-consumer-feign-hystrix-order80    
 
 
 熔断机制的微服务消费者订单Module模块
 
+
+## cloud-consumer-hystrix-dashboard9001
+
+
+hystrix监控面板
 

@@ -23,6 +23,7 @@
 - [cloud-provider-hystrix-payment8001  ](#cloud-provider-hystrix-payment8001  )
 - [cloud-consumer-feign-hystrix-order80 ](#cloud-consumer-feign-hystrix-order80  )
 - [cloud-consumer-hystrix-dashboard9001](#cloud-consumer-hystrix-dashboard9001  )
+- [cloud-gateway-gateway9527](#cloud-gateway-gateway9527)
 
 
 ## cloud-api-commons   
@@ -108,3 +109,8 @@ eureka注册中心
 
 hystrix监控面板
 
+
+## cloud-gateway-gateway9527
+
+
+gateway服务网关

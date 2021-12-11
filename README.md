@@ -30,6 +30,8 @@
 - [cloud-stream-rabbitmq-provider8801](#cloud-stream-rabbitmq-provider8801)
 - [cloud-stream-rabbitmq-consumer8802](#cloud-stream-rabbitmq-consumer8802)
 - [cloud-stream-rabbitmq-consumer8803](#cloud-stream-rabbitmq-consumer8803)
+- [cloudalibaba-provider-payment9001](#cloudalibaba-provider-payment9001)
+- [cloudalibaba-provider-payment9002](#cloudalibaba-provider-payment9002)
 
 
 ## cloud-api-commons   
@@ -156,3 +158,15 @@ Stream消息消费者
 
 
 Stream消息消费者2
+
+
+## cloudalibaba-provider-payment9001
+
+
+cloud alibaba 服务提供者1
+
+
+## cloudalibaba-provider-payment9002
+
+
+cloud alibaba 服务提供者2

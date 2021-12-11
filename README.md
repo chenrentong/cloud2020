@@ -32,6 +32,8 @@
 - [cloud-stream-rabbitmq-consumer8803](#cloud-stream-rabbitmq-consumer8803)
 - [cloudalibaba-provider-payment9001](#cloudalibaba-provider-payment9001)
 - [cloudalibaba-provider-payment9002](#cloudalibaba-provider-payment9002)
+- [cloudalibaba-consumer-nacos-order83](#cloudalibaba-consumer-nacos-order83)
+- [cloudalibaba-config-nacos-client3377](#cloudalibaba-config-nacos-client3377)
 
 
 ## cloud-api-commons   
@@ -170,3 +172,13 @@ cloud alibaba 服务提供者1
 
 
 cloud alibaba 服务提供者2
+
+
+## cloudalibaba-consumer-nacos-order83
+
+cloud alibaba 服务消费者
+
+
+## cloudalibaba-config-nacos-client3377
+
+cloud alibaba 配置客户端

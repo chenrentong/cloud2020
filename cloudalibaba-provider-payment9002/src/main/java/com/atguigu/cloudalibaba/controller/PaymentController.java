@@ -1,4 +1,4 @@
-package controller;
+package com.atguigu.cloudalibaba.controller;
 
 /**
  * @author chenrentong

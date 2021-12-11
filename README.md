@@ -27,6 +27,9 @@
 - [cloud-config-center-3344](#cloud-config-center-3344)
 - [cloud-config-client-3355](#cloud-config-client-3355)
 - [cloud-config-client-3366](#cloud-config-client-3366)
+- [cloud-stream-rabbitmq-provider8801](#cloud-stream-rabbitmq-provider8801)
+- [cloud-stream-rabbitmq-consumer8802](#cloud-stream-rabbitmq-consumer8802)
+- [cloud-stream-rabbitmq-consumer8803](#cloud-stream-rabbitmq-consumer8803)
 
 
 ## cloud-api-commons   
@@ -130,7 +133,26 @@ gateway服务网关
 
 配置中心模块cloudConfig Center 客户端
 
+
 ## cloud-config-client-3366
 
 
 配置中心模块cloudConfig Center 客户端2
+
+
+## cloud-stream-rabbitmq-provider8801
+
+
+Stream消息生产者
+
+
+## cloud-stream-rabbitmq-consumer8802
+
+
+Stream消息消费者
+
+
+## cloud-stream-rabbitmq-consumer8803
+
+
+Stream消息消费者2

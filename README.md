@@ -26,6 +26,7 @@
 - [cloud-gateway-gateway9527](#cloud-gateway-gateway9527)
 - [cloud-config-center-3344](#cloud-config-center-3344)
 - [cloud-config-client-3355](#cloud-config-client-3355)
+- [cloud-config-client-3366](#cloud-config-client-3366)
 
 
 ## cloud-api-commons   
@@ -120,9 +121,16 @@ gateway服务网关
 
 ## cloud-config-center-3344
 
+
 配置中心模块cloudConfig Center 服务端
 
 
 ## cloud-config-client-3355
 
+
 配置中心模块cloudConfig Center 客户端
+
+## cloud-config-client-3366
+
+
+配置中心模块cloudConfig Center 客户端2

@@ -38,6 +38,9 @@
 - [cloudalibaba-provider-payment9003](#cloudalibaba-provider-payment9003)
 - [cloudalibaba-provider-payment9004](#cloudalibaba-provider-payment9004)
 - [cloudalibaba-consumer-nacos-order84](#cloudalibaba-consumer-nacos-order84)
+- [seata-order-service2001](#seata-order-service2001)
+- [seata-storage-service2002](#seata-storage-service2002)
+- [seata-account-service2003](#seata-account-service2003)
 
 
 ## cloud-api-commons   
@@ -210,3 +213,21 @@ cloud alibaba ribbon、openfeign系列服务提供者2
 
 
 cloud alibaba ribbon、openfeign系列消费者
+
+
+## seata-order-service2001
+
+
+alibaba seata分布式事务订单模块
+
+
+## seata-storage-service2002
+
+
+alibaba seata分布式事务库存模块
+
+
+## seata-account-service2003
+
+
+alibaba seata分布式事务账户模块

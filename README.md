@@ -197,16 +197,16 @@ cloud alibaba sentinel
 ## cloudalibaba-provider-payment9003
 
 
-cloud alibaba ribbon系列服务提供者
+cloud alibaba ribbon、openfeign系列服务提供者
 
 
 ## cloudalibaba-provider-payment9004
 
 
-cloud alibaba ribbon系列服务提供者2
+cloud alibaba ribbon、openfeign系列服务提供者2
 
 
 ## cloudalibaba-consumer-nacos-order84
 
 
-cloud alibaba ribbon系列消费者
+cloud alibaba ribbon、openfeign系列消费者
